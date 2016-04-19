@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/laravel-todo-list":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/laravel-todo-list","hostpath":"C:/Users/Daven/Documents/GitHub/Work/laravel-todo-list","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Daven/Documents/GitHub/Work/laravel-todo-list","disabled":false,"__vagrantfile":true}}}
